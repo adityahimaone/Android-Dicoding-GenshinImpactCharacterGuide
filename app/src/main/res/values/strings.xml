@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GenshinImpactCharacterGuide</string>
+    <string name="character_name">Character</string>
+    <string name="detail">Detail Character</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="About">About</string>
+    <string name="adityahimaone_gmail_com">adityahimaone@gmail.com</string>
+    <string name="aditya_himawan">Aditya Himawan</string>
+</resources>
